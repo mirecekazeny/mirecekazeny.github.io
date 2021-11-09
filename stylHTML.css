@@ -1,0 +1,43 @@
+    p       {
+    color: #9DBEBE;
+    text-align: center;
+    
+    
+}
+    html, body    {
+    background-color:#211d25;
+    font-family: 'Ubuntu', sans-serif;
+}
+    h1      {
+       color: #C2D6D6;
+       text-align: center;
+
+}
+    img     {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    
+    }
+
+    h2{
+        color:#C2D6D6;
+        text-align: center;
+    }
+    h3{
+        color: #C2D6D6;
+        text-align: center;
+    }
+    h4{
+        color: #C2D6D6;
+        text-align: center;
+    }
+    h5{
+        color: #C2D6D6;
+        text-align: center;
+    }
+    h6{
+        color: #C2D6D6;
+        text-align: center;
+    }
