@@ -6,7 +6,8 @@
 }
     html, body    {
     background-color:#211d25;
-    font-family: 'Ubuntu', sans-serif;  
+    font-family: 'Ubuntu', sans-serif;
+    scroll-behavior: smooth;
 }
     h1      {
        color: #C2D6D6;
@@ -41,6 +42,12 @@
         color: #C2D6D6;
         text-align: center;
     }
-    html{
-        scroll-behavior: smooth;
+    a:hover{
+        color: #9DBEBE;
+    }
+    th{
+        color: ;
+    }
+    td{
+        color: #9DBEBE;
     }
